@@ -40,7 +40,7 @@
 			</plugin>
 		</plugins>
 	</build>
-	
+
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
@@ -49,4 +49,24 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+
+
+	<contributors>
+		<contributor>
+			<name>Joshua Glickman</name>
+			<email>captain.joshua.glickman@gmail.com</email>
+			<url>http://magothycharters.com</url>
+			<organization>AAAA</organization>
+			<organizationUrl>http://magothycharters.com</organizationUrl>
+			<roles>
+				<role>tester</role>
+			</roles>
+			<timezone>-5</timezone>
+			<properties>
+				<gtalk>captain.joshua.glickman@gmail.com</gtalk>
+			</properties>
+		</contributor>
+	</contributors>
+
+
 </project>
